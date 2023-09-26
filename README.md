@@ -1,7 +1,7 @@
 # Project Title
 
 ## 1. Project Description
-A web application that filters gas stations near the user according to their specified preferences x
+A web application that filters gas stations near the user according to their specified preferences. x
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 

@@ -5,16 +5,10 @@ A web application that filters gas stations near the user according to their spe
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
-<<<<<<< HEAD
 * Hi I am Seojin Kim, I like to play table tennis.
-=======
-* Louise Li
 * Taeyang Seo
-* Seojin Kim
-* ...
->>>>>>> d7bbc7e7055beb58acf21abcf6bf9e98cab5e4cd
-* ...
-* Hello, my name is Louise!
+* Hello, my name is Louise! I like to play video games.
+
 	
 ## 3. Technologies and Resources Used
 List technologies (with version numbers), API's, icons, fonts, images, media or data sources, and other resources that were used.

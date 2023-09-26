@@ -6,7 +6,7 @@ A web application that filters gas stations near the user according to their spe
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
 * Hi I am Seojin Kim, I like to play table tennis.
-* Hi, I am Taeyang Seo! I like to party
+* Hi, I am Taeyang Seo! I like to party!
 * Hello, my name is Louise! I like to play video games.
 
 	

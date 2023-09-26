@@ -1,12 +1,18 @@
 # Project Title
 
 ## 1. Project Description
-State your app in a nutshell, or one-sentence pitch. Give some elaboration on what the core features are.  
-This browser based web application to ... 
+A web application that filters gas stations near the user according to their specified preferences x
 
 ## 2. Names of Contributors
 List team members and/or short bio's here... 
+<<<<<<< HEAD
 * Hi I am Seojin Kim, I like to play table tennis.
+=======
+* Louise Li
+* Taeyang Seo
+* Seojin Kim
+* ...
+>>>>>>> d7bbc7e7055beb58acf21abcf6bf9e98cab5e4cd
 * ...
 * Hello, my name is Louise!
 	

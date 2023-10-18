@@ -1,10 +1,11 @@
 .bg-info {
-    background-color: #6096BA !important; /* Medium shade for navbar */
+    background-color: #ebf9fa !important; /* Medium shade for navbar */
 }
 
 .navbar-brand{
     font-family: 'Gaegu', sans-serif; /*change the font name for what you have*/
     font-size: 2.25rem;
+    
 }
 
 .navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
@@ -24,6 +25,7 @@
     border-color: #274C77; /* Darkest shade for border */
     border-width: thick;
 }
+
 
 body {
     background-color: #ffffff; /* Light shade for body background */

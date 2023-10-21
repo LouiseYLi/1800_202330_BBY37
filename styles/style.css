@@ -1,5 +1,5 @@
 .bg-info {
-    background-color: #ebf9fa !important; /* Medium shade for navbar */
+    background-color: lightgoldenrodyellow!important; /* Medium shade for navbar */
 }
 
 .navbar-brand{
@@ -31,3 +31,21 @@ body {
     background-color: #ffffff; /* Light shade for body background */
 }
 
+@font-face {
+font-family: 'sora';
+src: url(/Users/danielseo/Documents/COMP 1537/Assignments/Assignment 3/fonts/Sora/Sora-VariableFont_wght.ttf);
+font-style: normal;
+font-weight: 100;
+}
+
+h1 {
+font-size: 15px;
+font-family: sora;
+font-weight: 100;
+}
+
+p {
+font-size: 15px;
+font-family: sora;
+font-weight: 100;
+}
